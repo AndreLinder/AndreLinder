@@ -16,7 +16,7 @@
 ---
 
 <div id="im" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=31F707FF&center=true&width=600&lines=Hi%2C+I'm+Andre+Linder;Student+of+the+Russian+State+Social+University;.NET+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=31F707FF&center=true&width=600&lines=Hi%2C+I'm+Andre+Linder;" alt="Typing SVG" /></a>
 </div>
 
 ---
