@@ -8,9 +8,6 @@
   <a href="https://vk.com/andre_linder">
     <img src="https://img.shields.io/badge/VK-%232E87FB.svg?&style=flat&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="https://www.instagram.com/andr.linder">
-    <img src="https://img.shields.io/badge/Instagram-important?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
 </div>
 
 ---
